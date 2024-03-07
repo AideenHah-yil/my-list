@@ -8,6 +8,7 @@ print("After Append:", my_list)
 
 my_list.insert[1] = 15
 
+my_list = [50, 60, 70]
 
-
+my_list.extend(my_list)
 
