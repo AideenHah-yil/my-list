@@ -11,17 +11,12 @@ print("After Append:", my_list)
 
 my_list.insert(1, 15)
 
-# another list
-my_list = [50, 60, 70]
-
 #adding two lists using extend
-my_list.extend(my_list)
-
-print("After Extend:", my_list)
+my_list.extend([50, 60, 70])
 
 #remove last element
 
-my_list.pop[-1]
+my_list.pop()
 
 print("After Pop:", my_list)
 
