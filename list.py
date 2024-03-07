@@ -27,6 +27,7 @@ print("After Sort:", my_list)
 
 # find index of 30
 
-my_list.index(30)
+index_of_30 = my_list.index(30)
+print("Index of 30:", index_of_30)
 
 
