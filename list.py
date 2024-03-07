@@ -1,7 +1,10 @@
 my_list = []
 
 #adding elements using append
-my_list.append(10, 20, 30, 40)
+my_list.append(10)
+my_list.append(20)
+my_list.append(30)
+my_list.append(40)
 
 
 print("After Append:", my_list)
