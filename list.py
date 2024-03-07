@@ -9,7 +9,7 @@ my_list.append(40)
 
 print("After Append:", my_list)
 
-my_list.insert[1] = 15
+my_list.insert(1, 15)
 
 # another list
 my_list = [50, 60, 70]
